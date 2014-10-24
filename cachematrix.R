@@ -1,6 +1,6 @@
 ################################################################################
 ## 
-## R Programming - Assignment 2
+## R Programming - Assignment 2 (Final version)
 ## Caching the Inverse of a Matrix
 ## 
 ################################################################################
